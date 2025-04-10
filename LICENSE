@@ -1,24 +1,31 @@
-This is free and unencumbered software released into the public domain.
+Nightfall Game Project License
+Copyright © 2025 Jojo. All rights reserved.
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+This repository and all of its contents, including but not limited to source code, scripts, story content, design documents, images, audio, and related media ("the Project"), are proprietary and confidential.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+Permission is hereby granted to select contributors who have been explicitly invited by the owner to view, comment, and contribute to this Project under the following terms:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. **NO Distribution or Sharing**
+   - You may NOT copy, redistribute, publish, or share any part of the Project in any form or medium, publicly or privately, outside of this repository without prior written permission from the owner.
 
-For more information, please refer to <https://unlicense.org>
+2. **NO Commercial Use**
+   - You may NOT use any part of the Project for commercial purposes, monetization, paid content, or promotion.
+
+3. **NO Modification for External Use**
+   - You may NOT fork, clone, or modify the Project for use in external projects, personal experiments, demos, or derivative works without written consent.
+
+4. **NO Reverse Engineering or Extraction**
+   - You may NOT reverse engineer, decompile, disassemble, extract, or repurpose any assets, code, or story elements from the Project.
+
+5. **NO AI/ML Usage**
+   - You may NOT use any part of the Project for training machine learning models, AI datasets, generative tools, or similar technologies.
+
+6. **NO Public Disclosure**
+   - All content in this repository is confidential. You may NOT discuss or disclose details of this Project publicly, including on social media, forums, or chat platforms, unless explicitly permitted.
+
+7. **Permitted Internal Use**
+   - Authorized contributors may view, comment, and submit changes through version control tools (e.g., GitHub), solely for the purpose of collaborating on the development of this Project.
+
+8. **Termination**
+   - Access or contribution rights may be revoked at any time by the owner without notice. Violations of this license will result in immediate removal and may lead to legal action.
+
